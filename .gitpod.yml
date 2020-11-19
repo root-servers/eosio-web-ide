@@ -2,15 +2,15 @@ image: eosio/eosio-web-ide:v0.1.0
 
 ports:
 - port: 3000
-  onOpen: ignore
+  onOpen: allow
 - port: 8000
-  onOpen: ignore
+  onOpen: allow
 - port: 8080
-  onOpen: ignore
+  onOpen: allow
 - port: 8888
-  onOpen: ignore
+  onOpen: allow
 - port: 9876
-  onOpen: ignore
+  onOpen: allow
 
 tasks:
 - before: cd webapp

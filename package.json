@@ -1,0 +1,22 @@
+{
+  "name": "eosio-web-ide",
+  "version": "1.0.0",
+  "description": "[![Software License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](./LICENSE)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EOSIO/eosio-web-ide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EOSIO/eosio-web-ide/issues"
+  },
+  "homepage": "https://github.com/EOSIO/eosio-web-ide#readme"
+}

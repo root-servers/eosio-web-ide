@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/EOSIO/eosio-web-ide/issues"
   },
-  "homepage": "https://github.com/EOSIO/eosio-web-ide#readme"
+  "homepage": "https://github.com/EOSIO/eosio-web-ide#readme",
+  "dependencies": {
+    "eos-endpoint": "^2.0.1",
+    "eosio": "0.0.2",
+    "yarn": "^1.22.10"
+  }
 }
